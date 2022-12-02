@@ -1,0 +1,1 @@
+Hi, I'm John Emmanuel, right now I'm just learning git and git-hub, so I don't really know if I'm doing it right :) and my hobbies are coding, reading manhwa/manga and hanging out with my friends, My goal this year is to survive college and the bootcamp I entered. The reason why I want to become a web developer is because this is where I found my inner peace. 
